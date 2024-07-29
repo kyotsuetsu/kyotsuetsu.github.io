@@ -1,0 +1,18 @@
+/* ul li{
+    list-style-type: square;
+} */
+
+/* ol li{
+    list-style-type: lower-alpha;
+    list-style-type: upper-alpha;
+    list-style-type: lower-roman;
+    list-style-type: upper-roman; */
+    /* decimal is the default value */
+    /* list-style-type: decimal;
+} */
+
+ul li{
+    list-style-position: outside;
+    list-style-position: inside;
+    list-style: inside square;
+}

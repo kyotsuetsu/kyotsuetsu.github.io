@@ -1,0 +1,17 @@
+.hidden{
+    background-color: cornflowerblue;
+    border: 1px solid white;
+    width: 400px;
+    height: 250px;
+    /* overflow: hidden; */
+    overflow: scroll;
+    padding: 10px;
+    margin: 30px;
+
+}
+
+.box-shaddow{
+    margin: 30px;
+    border: 1px solid black;
+    box-shadow: 10px 15px 20px 5px red;
+}

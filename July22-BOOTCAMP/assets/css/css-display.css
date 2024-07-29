@@ -1,0 +1,19 @@
+ul li{
+    display: inline;
+}
+
+a{
+    background-color: cornflowerblue;
+    display: block;
+}
+
+span{
+    display: none;
+}
+
+img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
